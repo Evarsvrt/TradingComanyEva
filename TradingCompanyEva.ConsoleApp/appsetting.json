@@ -1,0 +1,11 @@
+{
+  "ConnectionStrings": {
+    "TradingDBConnection": "Server=localhost,1434;Database=TradingBuyerDBeva;User Id=sa;Password=MyStro0ng!Pass123;TrustServerCertificate=True;MultipleActiveResultSets=True;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.EntityFrameworkCore.Database.Command": "Warning"
+    }
+  }
+}
